@@ -19,6 +19,15 @@ A **fully interactive Excel dashboard** featuring dynamic slicers, pivot charts,
 
 ---
 
+## 🖼️ Dashboard Preview
+
+Here’s a visual preview of the final dashboard 👇
+
+![Dashboard Preview](Dashboard.png)
+
+
+---
+
 ## 🎯 Key Business Questions
 
 1. What were the overall sales and order trends in 2022?  
