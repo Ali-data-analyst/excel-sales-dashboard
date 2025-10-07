@@ -133,6 +133,7 @@ Here’s a visual preview of the final dashboard 👇
 - KPIs placed at the top for quick scanning  
 - Responsive slicers controlling all charts  
 - Optimized layout for readability and export  
+---
 
 ### Sample Formulas
 ```excel
@@ -140,3 +141,29 @@ Total Sales = SUM(Amount)
 Order Fulfillment Rate = Orders_Delivered / Total_Orders
 Average Order Value = Total_Sales / Total_Orders
 Age Group = IF(Age<20,"Teen",IF(Age<40,"Adult",IF(Age<60,"Middle Age","Senior")))
+
+```
+---
+
+## 👨‍💻 Developed By  
+
+<div align="center">
+
+### **Muhammad Ali**  
+📊 *Data Analyst | Excel & Power BI Enthusiast*  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadali) 
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-data-analyst)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammad.ali@example.com)
+
+---
+
+⭐ *Turning data into decisions with insight, clarity, and precision.* ⭐  
+
+</div>
+
+
+
+
+
+
