@@ -9,6 +9,7 @@
 
 ---
 
+
 ## 🧭 Overview
 
 **Business Problem:**  
@@ -169,17 +170,3 @@ Age Group = IF(Age<20,"Teen",IF(Age<40,"Adult",IF(Age<60,"Middle Age","Senior"))
 </div>
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
